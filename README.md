@@ -153,11 +153,6 @@ To run:
 
 - `001111`: JUMP → PC ← Address
 
----
-
-## 🔧 Data Path
-
-![Datapath](https://github.com/user-attachments/assets/dabb0f18-7a29-404a-a484-ab74ae950e68)
 
 ---
 
