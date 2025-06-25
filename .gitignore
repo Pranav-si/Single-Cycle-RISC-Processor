@@ -1,17 +1,11 @@
-.vscode/
-*.log
-*.jou
-*.wdb
-*.pb
-.Xil/
-*.tmp
-*.cache/
-*.runs/
-*.sim/
-*.ip_user_files/
-*.hw/
-*.webtalk/
-*.xpr
-*.xpr.cache/
-*.xpr.data/
+# Ignore everything
+*
+
+# But not these two files
+!risc.v
+!risctb.v
+
+# Also don't ignore the .gitignore file itself
+!.gitignore
+
 
