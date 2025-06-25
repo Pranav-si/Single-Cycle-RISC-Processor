@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# But not these two files
+!risc.v
+!risctb.v
+
+# Also don't ignore the .gitignore file itself
+!.gitignore
+
+
