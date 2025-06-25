@@ -1,0 +1,71 @@
+Time resolution is 1 ps
+Registers and Data Memory initialized to zero.
+
+===== Final Register Values =====
+R[0] = 0002
+R[1] = 0002
+R[2] = 0002
+R[3] = 0002
+R[4] = 0002
+R[5] = 0004
+R[6] = 0002
+R[7] = fffd
+R[8] = 0008
+R[9] = 0000
+R[10] = 0000
+R[11] = 0004
+R[12] = 0004
+R[13] = 0000
+R[14] = 0001
+R[15] = 0000
+R[16] = 0000
+R[17] = 0004
+R[18] = 0000
+R[19] = 0000
+R[20] = 0000
+R[21] = 0004
+R[22] = 0000
+R[23] = 0000
+R[24] = 0000
+R[25] = 0000
+R[26] = 0000
+R[27] = 0000
+R[28] = 0000
+R[29] = 0000
+R[30] = 0000
+R[31] = 0000
+
+===== Final First 32 Data Memory Values  =====
+Mem[0] = 0000
+Mem[1] = 0000
+Mem[2] = 0002
+Mem[3] = 0000
+Mem[4] = 0000
+Mem[5] = 0000
+Mem[6] = 0000
+Mem[7] = 0000
+Mem[8] = 0000
+Mem[9] = 0000
+Mem[10] = 0000
+Mem[11] = 0000
+Mem[12] = 0000
+Mem[13] = 0000
+Mem[14] = 0000
+Mem[15] = 0000
+Mem[16] = 0000
+Mem[17] = 0000
+Mem[18] = 0000
+Mem[19] = 0000
+Mem[20] = 0000
+Mem[21] = 0000
+Mem[22] = 0000
+Mem[23] = 0000
+Mem[24] = 0000
+Mem[25] = 0000
+Mem[26] = 0000
+Mem[27] = 0000
+Mem[28] = 0000
+Mem[29] = 0000
+Mem[30] = 0000
+Mem[31] = 0000
+$finish called at time : 721 ns : File "C:/Users/Pranav/project_18/project_18.srcs/sim_1/new/risc_tb.v" Line 58
