@@ -8,7 +8,7 @@ An implementation of a custom 32-bit single-cycle RISC processor designed in Ver
 
 - **Instruction Format**: 32-bit fixed format.
 - **Registers**: 32 General Purpose Registers (GPRs), 16-bit wide.
-- **Memory**: 64KB unified instruction and data memory (16-bit words).
+- **Memory**: 128KB instruction and data memory (16-bit words).
 - **Supported Operations**:
   - Arithmetic: ADD, SUB
   - Logical: AND, OR, XOR, NOT
